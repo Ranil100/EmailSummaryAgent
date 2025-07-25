@@ -1,4 +1,4 @@
-# 📬 Email Summary Agent
+# 📬 Email Sending Agent
 
 The **Email Summary Agent** is a no-code/low-code automation built using [n8n](https://n8n.io/) that connects to your email inbox, extracts recent emails, and provides concise summaries using AI. This is ideal for users who want to save time and quickly understand the content of their emails.
 
